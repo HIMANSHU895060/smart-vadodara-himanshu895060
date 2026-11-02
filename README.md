@@ -10,7 +10,7 @@ The platform bridges the gap between **citizens**, **Ward Engineers**, and **Mun
 
 - Frontend: https://smart-vadodara-blond.vercel.app
 - Backend API: https://smart-vadodara-api.onrender.com
-- GitHub Repository: https://github.com/Ankittt-14/smart-vadodara
+- GitHub Repository: https://github.com/HIMANSHU895060/smart-vadodara
 
 Use the frontend URL to access the full app. Use the backend URL for API integration, testing, and deployment configuration.
 
